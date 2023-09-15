@@ -2,3 +2,6 @@ this is main file line
 
 this is dev commit1
 this is dev commit 2
+
+this is feature1 line
+this is also feature1 line
