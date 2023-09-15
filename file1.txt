@@ -9,5 +9,7 @@ this is also feature1 line
 this line is in feature2
 this line is also in feature2
 
+this is stash line
+
 
 we are in stash branch
